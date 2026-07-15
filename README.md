@@ -1,4 +1,4 @@
-# IR-mapping
+# IR-Mapping
 TGR-IR Mapping
 
 [Theory Name] -> IR Mapping
